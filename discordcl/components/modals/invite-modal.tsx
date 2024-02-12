@@ -41,6 +41,7 @@ export const InviteModal = () => {
     try {
       setIsLoading(true);
       const response = await axios.patch(`/api/servers/${server?.id}/invite-code`);
+
       onOpen("invite", { server: response.data });
     } catch (error) {
       console.log(error);
@@ -84,7 +85,7 @@ export const InviteModal = () => {
             className="text-xs text-zinc-500 mt-4"
           >
             Generate a new link
-            <RefreshCw className="w-4 h-4 ml-2"  />
+            <RefreshCw className="w-4 h-4 ml-2" />
           </Button>
         </div>
       </DialogContent>
