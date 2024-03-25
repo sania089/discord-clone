@@ -1,13 +1,21 @@
 # discord-clone
 This is a repository for Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL 
 
-![Screenshot 2024-03-26 025343](https://github.com/hailhydra1/discord-clone/assets/87016129/e3fb90bb-5a5f-4834-8c55-853aedc7f80a)
+Dark Mode <br>
+![Screenshot 2024-03-26 025343](https://github.com/hailhydra1/discord-clone/assets/87016129/e3fb90bb-5a5f-4834-8c55-853aedc7f80a)\
+Light Mode <br>
 ![Screenshot 2024-03-26 025449](https://github.com/hailhydra1/discord-clone/assets/87016129/f8e3a236-06e1-477d-b4f9-c479d0581dff)
+Search <br>
 ![Screenshot 2024-03-26 025356](https://github.com/hailhydra1/discord-clone/assets/87016129/c5b451eb-fd0a-44bd-8548-28d2120b30bf)
+Create Sserver <br>
 ![Screenshot 2024-03-26 025417](https://github.com/hailhydra1/discord-clone/assets/87016129/bc49a69d-0117-4f2c-bf0c-ce6c136983a5)
+Invite Friends <br>
 ![Screenshot 2024-03-26 025603](https://github.com/hailhydra1/discord-clone/assets/87016129/0fd30862-5103-4f0a-89b6-6b949b55b79e)
+Customise Server <br>
 ![Screenshot 2024-03-26 025625](https://github.com/hailhydra1/discord-clone/assets/87016129/0174df0d-3483-4890-9d5d-379af1f6e21b)
+Manage Members <br>
 ![Screenshot 2024-03-26 025640](https://github.com/hailhydra1/discord-clone/assets/87016129/6bbb8ed4-ace9-4c9e-bbfa-fa894ce12e36)
+Create Channel <br>
 ![Screenshot 2024-03-26 025707](https://github.com/hailhydra1/discord-clone/assets/87016129/0be5eef9-e4a8-41da-b2c0-6e9c6778228f)
 
 
